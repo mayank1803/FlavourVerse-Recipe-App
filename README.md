@@ -10,4 +10,4 @@
 
 5.**User-Friendly Interface**: Enjoy a clean, responsive design that makes browsing and discovering recipes a pleasure.
 
-**Experience FlavourVerse live <a href="https://flavourverse1.netlify.app/" target="_blank">here</a>.** 
+**Experience FlavourVerse live [here](https://flavourverse1.netlify.app/")** 
